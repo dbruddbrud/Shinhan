@@ -1,0 +1,15 @@
+*{margin: 0; padding: 0;}
+li{list-style: none;}
+a{text-decoration: none; color: #111; display: block;}
+img{display: block; width: 100%;}
+
+body{
+    color: #111;
+    /* font-family: Montserrat, Noto Sans KR; */
+    font-family: 'Montserrat', 'Noto Sans KR';
+    overflow-x: hidden;
+}
+
+.swiper-scrollbar{
+    --swiper-theme-color: #ab9b7f;
+}
